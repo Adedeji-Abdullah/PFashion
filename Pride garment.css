@@ -1,0 +1,19 @@
+/*.hero-img{
+    width: 400px;
+}
+
+@media only screen and (max-width: 800px) {
+    .hero-img{
+        width: 165px;
+    }
+}
+
+@media screen {
+    .hero{
+        min-height: calc(100vh - 68px);
+    }
+}*/
+
+#skill{
+    font-family:"brush script MT", cursive;
+}
